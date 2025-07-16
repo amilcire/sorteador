@@ -1,4 +1,4 @@
-# Sistema de Sorteio React                         [👉 Teste o Sorteador line!]https://amilcire.github.io/sorteador/)
+# Sistema de Sorteio React                         [👉 Teste o Sorteador!]https://amilcire.github.io/sorteador/)
 
 Este é um projeto simples de sistema de sorteio feito com React. Permite ao usuário escolher a quantidade e o intervalo dos números, inserir seus palpites e verificar quantos números acertou.
 
